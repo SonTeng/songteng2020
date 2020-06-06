@@ -777,7 +777,7 @@ JShell脚本工具是JDK9的新特性
 
 说明，JShell 只能做个类似于小便笺的小工具使用，仅此而已，而不能完全替代创建.java文件使用。
 
-![JShell的使用示例](C:\Users\songt\Desktop\JShell的使用示例.JPG)
+![JShell的使用示例](https://github.com/SonTeng/songteng2020/blob/master/Java(%E9%BB%91%E9%A9%AC2019%2BIDEA)/Day02/JShell%20example.JPG)
 
 ###### 16-编译器的两点优化
 
